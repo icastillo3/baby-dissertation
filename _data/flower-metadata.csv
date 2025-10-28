@@ -1,0 +1,4 @@
+objectid,parentid,title,creator,date,description,subject,location,latitude,longitude,source,identifier,type,format,language,rights,rightsstatement,display_template,object_location,image_small,image_thumb,image_alt_text,object_transcript
+plant_0001,,Tinttinnabulum,,and of the 6th BCE,,,,,,,,,,,,,multiple,,,,,
+plant_0001a,plant_0001,Tintinnabulum front,,,,,,,,,,Image;StillImage,image/png,,,,image,/objects/plant_0001b.png,/objects/plant_0001b.png,/objects/plant_0001b.png,,
+plant_0001b,plant_0001,Tintinnabulum back,,,,,,,,,,Image;StillImage,image/png,,,,image,/objects/plant_0001a.png,/objects/plant_0001a.png,/objects/plant_0001a.png,,
